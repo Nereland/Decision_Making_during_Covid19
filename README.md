@@ -88,7 +88,9 @@ Supervised Classification ML models show that three out of the four conditions c
 **Statistical Analyses**
 Fisher exacts' Chi Square show that the answers in Small-Scale Covid19 and Small-Scale Neutral were related, and also were those between Large-Scale Covid19 and Small-Scale Covid19,this is that individuals that are be individualistic or collectivistic in one situation tend to be also individualistic in the other situation proposed.
 
-![Captura de pantalla 2020-08-06 a las 18.45.37](/assets/Captura%20de%20pantalla%202020-08-06%20a%20las%2018.45.37.png)
+
+
+![Captura de pantalla 2020-08-06 a las 19.11.28](/assets/Captura%20de%20pantalla%202020-08-06%20a%20las%2019.11.28.png)
 
 **Tableau Dashboard** to visualize individualistic and collectivistic orientations by countries (right graph) together with risk perception and conformity punctuation (map on the left): 
 
@@ -122,8 +124,10 @@ Finally these visualizations refer to age (y), conformity (x), risk perception (
 
 Data from this study come from real world data, which made predictions difficult to pre-evaluate, however results were richer than expected and will probably be used for its final analysis and publication. 
 
-There are differences between individuals in their responeses regarding the situation studied as has been shown in results.
+There are differences between individuals in their responeses regarding the situation studied as has been shown in machine learning models, besides two out of the four models were very accurate with new data, which was quite impressive given the small size of the new data(n=10) and the biased sample (collegues from the bootcamp).
+
+Finally chi square showed that some responses are related, there are trends in people that make them give a type of response given the environment, age, children category, perception of risk and conformity variables must be taken into account when analysing these data in depth.
 
 This one week study lacks of deeper statistical analysis that I would like to conduct by using [R](https://www.r-project.org/) language, I did not have time to study R and to conduct them but I have this taks in mind.
 
-For a better performance I plan to create an API by using [FastApi](https://fastapi.tiangolo.com/) in the next weeks, so researchers will be able to analyse their own data and make predictions with other countries. 
+For a better performance I plan to create an API by using [FastAPI](https://fastapi.tiangolo.com/) in the next weeks, so researchers will be able to analyse their own data and make predictions with other countries. 
