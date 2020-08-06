@@ -1,9 +1,9 @@
 # DECISION MAKING DURING COVID19
-![umbrella-1588167_640](/assets/umbrella-1588167_640.jpg)
 This project is based on an current unpublished research on human decission making during COVID19 outbreak. The study has been carried out in five countries and it is currently collecting data in several other countries. 
 
 The success of humanity is widely attributed to our species’ inordinate capability and motivation to engage in cooperative activities. Virtually all of our most important and complex achievements –language, technology, social institutions –are the product of individuals cooperating with each other. The maintenance of cooperation in large groups of unrelated individuals, such as human societies, is only possible thanks to social norms that regulate behaviour among group members and are shared by all members (Richerson et al., 2016; Tomasello & Vaish, 2012). From very early in development, humans are not only willing to endorse social norms, but crucially to punish violators of norms. Indeed, according to many scholars, both conformity to norms and third-party punishment are responsible for the evolution and stabilization of cooperation among humans.  
-![team-386673_640](/assets/team-386673_640.jpg)
+
+   ![team-386673_640](/assets/team-386673_640.jpg)
 
 
 ## TOPIC
@@ -20,6 +20,9 @@ The former dataset was composed of samples from 5 different countries in which d
 - Social decission making.
 
 Here I analysed Individualistic and Collectivistic orientation in four different contexts, as I expose below.
+
+    ![umbrella-1588167_640](/assets/umbrella-1588167_640.jpg)
+
 
 ## OBJECTIVES
 
