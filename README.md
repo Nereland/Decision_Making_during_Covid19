@@ -21,8 +21,6 @@ The former dataset was composed of samples from 5 different countries in which d
 
 Here I analysed Individualistic and Collectivistic orientation in four different contexts, as I expose below.
 
-    ![umbrella-1588167_640](/assets/umbrella-1588167_640.jpg)
-
 
 ## OBJECTIVES
 
