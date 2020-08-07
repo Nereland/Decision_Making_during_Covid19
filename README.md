@@ -76,9 +76,10 @@ Machine learning models with [Sckit-Learn](https://scikit-learn.org/stable/) and
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
 
-## RESULTS
+## RESULTS 
 
 **Machine Learning**
+
 Supervised Classification ML models show that three out of the four conditions can be predicted with the studied models. Multilabel and Unsupervised models did not provide further information.
 ![Captura de pantalla 2020-08-06 a las 18.44.59](/assets/Captura%20de%20pantalla%202020-08-06%20a%20las%2018.44.59.png)
 
